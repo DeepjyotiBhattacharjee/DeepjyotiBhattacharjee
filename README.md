@@ -60,4 +60,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Why Hyperparameter Tuning ?](https://deepjyotibhattacharjee.medium.com/why-hyperparameter-tuning-8dc96cafe4ef?source=rss-c0cbebf388fa------2)
+- [Decision Tree in Machine Learning](https://deepjyotibhattacharjee.medium.com/decision-tree-in-machine-learning-222cc912c93a?source=rss-c0cbebf388fa------2)
+- [Why use or not use Support Vector Machines ??](https://deepjyotibhattacharjee.medium.com/why-use-or-not-use-support-vector-machines-35920ee3c78b?source=rss-c0cbebf388fa------2)
+- [Performance Metrics of a Regression Problem](https://deepjyotibhattacharjee.medium.com/performance-metrics-of-a-regression-problem-9489612f802c?source=rss-c0cbebf388fa------2)
+- [Gradient Descent](https://deepjyotibhattacharjee.medium.com/gradient-descent-22f50c98be39?source=rss-c0cbebf388fa------2)
 <!-- BLOG-POST-LIST:END -->
