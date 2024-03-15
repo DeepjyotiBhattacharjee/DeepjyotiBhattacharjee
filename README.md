@@ -27,8 +27,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Senior Software Developer and contributing to backend applications driven through data.
+I'm a passionate Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Machine Learning Engineer with a strong background in turning data into actionable insights and building intelligent systems. My journey in the world of data and machine learning began with a curiosity to unravel the hidden patterns in data and use them to make informed decisions.
+- :telescope: I’m working as a Senior Software Developer and building/maintaining backend/fullstack applications driven through data.
 
 - :seedling: Exploring Technical Content Writing.
 
