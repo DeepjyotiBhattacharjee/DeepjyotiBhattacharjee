@@ -32,7 +32,7 @@ I'm a passionate Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I play my guitar, sometimes skim through data science case studies and read tech articles.
+- :zap: In my free time, I play my guitar or just chill out.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepjyoti-bhattacharjee-3a477bb1/)
 
