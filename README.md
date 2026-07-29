@@ -52,10 +52,6 @@ I'm a passionate Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeepjyotiBhattacharjee%20)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepjyotiBhattacharjee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### :writing_hand: Blog Posts :
